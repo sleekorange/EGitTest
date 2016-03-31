@@ -11,6 +11,7 @@
 
 <h1>Hello!</h1>
 <h2>This is a GitTest</h2>
+<p>Version 1.1  - This is the change</p>
 
 </body>
 </html>
